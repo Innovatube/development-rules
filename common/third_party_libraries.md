@@ -4,13 +4,13 @@
 
 You must use package managers.
 
-| Language | PackageManager |
-|:---------|:---------------|
-| PHP      | Composer       |
-| Ruby     | Gem            |
-| Python   | pip            |
-| Swift    | CocoaPods      |
-| Java     | Gradle         |
+| Language | PackageManager    |
+|:---------|:------------------|
+| PHP      | Composer          |
+| Ruby     | Gem               |
+| Python   | pip               |
+| Swift    | CocoaPods/carthage|
+| Java     | Gradle            |
 
 You must not use any third party library which is not registered to package manager registry.
 
