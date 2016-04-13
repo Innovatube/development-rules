@@ -13,6 +13,7 @@ Basically, we can follow [GitHub's Swift Coding Style Guild](https://github.com/
 ## Things you should do before pull request
 
 * Use [SwiftLint](https://github.com/realm/SwiftLint) to check if it follow the coding style
-* Sync Xcode project phisycal directory structure with Xcode group
+* Sync Xcode project physical directory structure with Xcode group
   * You can use [synx](https://github.com/venmo/synx)
 * Use [Tayler](https://tailor.sh/) to ensure code clean
+
