@@ -6,6 +6,6 @@
 
 ## Framework and Code Template
 
-Our standard framework is [Laravel](https://laravel.com/). and we should use [Boilerplate](https://github.com/takaaki-mizuno/laravel-boilerplate) as a template for every project.
+Our standard framework is [Laravel](https://laravel.com/). and we should use [Laravel Rocket Boilerplate](https://github.com/laravel-rocket/documents/tree/master/en) as a template for every project.
 
 
