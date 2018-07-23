@@ -4,7 +4,8 @@
 
 * We use [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * Use eslint check style code : [Rule EsLint](https://eslint.org/docs/rules/) And [Rule Reactjs] (https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules)
-* List rule disable ```javascript
+* List rule disable: 
+```
 'sort-imports' : 0,
 'no-tabs': 1,
 'indent': 0,
