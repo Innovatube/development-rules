@@ -45,8 +45,6 @@
 ```
 *Use 2 space ralace for tab
 ## Framework and Code Template
-
-Our standard framework is [Laravel](https://laravel.com/). and we should use [Laravel Rocket Boilerplate](https://github.com/laravel-rocket/documents/tree/master/en) as a template for every project.
-
+[express-react-base](https://github.com/Innovatube/express-react-base)
 
 
