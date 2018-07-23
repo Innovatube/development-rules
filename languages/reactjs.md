@@ -2,7 +2,7 @@
 
 ## Coding Style
 
-* We use [Rectjs ArBnB](https://github.com/airbnb/javascript/tree/master/react)
+* We use [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * Use eslint check style code : [Rule EsLint](https://eslint.org/docs/rules/) And [Rule Reactjs] (https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules)
 * List rule disable ```
 'sort-imports' : 0,
