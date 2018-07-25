@@ -43,3 +43,12 @@ Example:
 :bug: [Fixed #123][#124][#125] Torpedoes now sufficiently powered
 :sparkles: [#123] Diverting power from warp drive to torpedoes
 ```
+
+### Git message template configuration
+Create ~/.gitmessage file with content above.
+
+Set  ~/.gitmessage as default commit message template
+
+```bash
+git config --global commit.template ~/.gitmessage
+```
