@@ -7,7 +7,7 @@ Name format `<type>/<name>_<issue_no>`
 #### `<type>`
 ```
 fix    - Code changes linked to a known issue.
-feat   - New feature.
+feature   - New feature.
 hotfix - Quick fixes to the codebase.
 ```
 
@@ -16,7 +16,7 @@ Always use dashes to seperate words, and keep it short.
 
 #### Examples
 ```
-feat/renderer-cookies
+feature/renderer-cookies
 hotfix/dockerfile-base-image_#215
 fix/login-ie_#21
 ```
